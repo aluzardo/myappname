@@ -73,4 +73,5 @@
         <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
     </platform>
     <engine name="android" spec="~5.2.1" />
+    <engine name="ios" spec="~4.0.1" />
 </widget>
