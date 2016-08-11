@@ -1,4 +1,4 @@
-var appLocation = '/Users/tom/Google\ Drive/Apps/myappname/platforms/android/build/outputs/apk/android-debug.apk';
+var appLocation = '/Path/to/android-debug.apk';
 
 exports.config = {
     seleniumAddress: 'http://localhost:4723/wd/hub',

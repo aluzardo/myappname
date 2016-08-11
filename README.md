@@ -8,6 +8,8 @@ Download these file then from the root directory myappname/ run
 
 to download all the dependencies.
 
+Edit the 'appLocation' variable in 'ios-config.js' within the 'tests' directory to point at your built app
+
 Once again from the root run appium
 
 `$ node_modules/.bin/appium`

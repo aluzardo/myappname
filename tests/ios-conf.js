@@ -1,4 +1,4 @@
-var appLocation = '/Users/tom/Google\ Drive/Apps/myappname/platforms/ios/build/emulator/myappname.app';
+var appLocation = '/Path/to/myappname.app';
 
 exports.config = {
     seleniumAddress: 'http://localhost:4723/wd/hub',
